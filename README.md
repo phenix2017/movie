@@ -2,6 +2,14 @@
 
 采集源：[人人影视](http://m.zimuzu.tv)
 
+# 安装与运行
+
+```bash
+git clone https://github.com/JerryLi-X/spider_YYeTs_GoT.git
+cd spider_YYeTs_GoT
+python3 ./main.py
+```
+
 # 链接
 
 ```
