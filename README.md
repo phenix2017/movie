@@ -1,4 +1,4 @@
-# Spider YYeTs Game of Thrones 权利与游戏 ed2k 链接爬虫
+# Spider YYeTs Game of Thrones 权利的游戏 ed2k 链接爬虫
 
 采集源：[人人影视](http://m.zimuzu.tv)
 
